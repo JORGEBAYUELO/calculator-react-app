@@ -48,7 +48,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-amber-50 to-orange-100 p-6">
       <div className="max-w-2xl mx-auto space-y-8">
         <div className="text-center">
-          <h1 className="text-4xl font-bold text-brown-900 mb-2">Get Your Pefect Cappuccino Cup Right</h1>
+          <h1 className="text-4xl font-bold text-brown-900 mb-2">Get Your Cappuccino Cup Right</h1>
           <p className="text-brown-600">Perfect ratios for the perfect cup</p>
         </div>
 
