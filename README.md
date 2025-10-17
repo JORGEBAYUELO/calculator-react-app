@@ -1,1 +1,1 @@
-# Cappuccino Calculator App
+# Cappuccino Calculator React App
